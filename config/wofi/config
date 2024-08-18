@@ -1,0 +1,14 @@
+width=450
+height=270
+
+columns=2
+
+no_actions=true
+hide_scroll=true
+
+image_size=20
+prompt=search
+allow_images=true
+term=kitty
+hide_search=false скрывать панель поиска
+
