@@ -1,4 +1,6 @@
 # Hyprland dotfiles
+![1](https://github.com/HayKor/hypr-dotfiles/blob/main/pictures/Pasted%20image.png?raw=true)
+![1](https://github.com/HayKor/hypr-dotfiles/blob/main/pictures/Pasted%20image%20(2).png?raw=true)
 
 ## ИНФО
 
