@@ -12,7 +12,7 @@
 | NOTIFICATION | [dunst](https://github.com/dunst-project/dunst) |
 | LOCKING      | [Hyprlock](https://github.com/hyprwm/hyprlock)  |
 
-## УСТАНОВКА ТЕМ, ИКОНОК И ОТКЛЮЧЕНИЕ КНОПОК
+## Setting up theme and cursors
 
 ```
 gsettings set org.gnome.desktop.interface icon-theme Catppuccin-Mocha-Alt2
