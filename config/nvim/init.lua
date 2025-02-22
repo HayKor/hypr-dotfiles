@@ -22,6 +22,7 @@ local lazy_config = require "configs.lazy"
 
 -- load plugins
 require("lazy").setup({
+    { "folke/todo-comments.nvim", lazy = false },
     {
         "NvChad/NvChad",
         lazy = false,
