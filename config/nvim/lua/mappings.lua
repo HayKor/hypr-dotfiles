@@ -45,7 +45,7 @@ map({ "n", "t" }, "<A-i>", function()
                     .. "python3 "
                     .. file
                     .. " && exit",
-                cpp = "clear && g++ -o out "
+                cpp = "clear && clang++ -o out "
                     .. file
                     .. " && ./out"
                     .. " && rm -f out"

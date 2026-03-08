@@ -13,13 +13,14 @@ alias mux='pgrep -vx tmux > /dev/null && \
 
 export GOPATH="$HOME/go"
 export PATH="$GOPATH/bin:$PATH"
-export PATH="/home/arthur/.local/share/GoLand-2024.2.3/bin/:$PATH"
+export PATH="/home/arthur/.cargo/bin:$PATH"
+export PATH="/home/arthur/Scripts/:$PATH"
 export EDITOR="nvim"
-alias oo='cd ~/Obsidian/ && nvim'
 
-# Rye
-set -Ua fish_user_paths "$HOME/.rye/shims"
-export RYE_NO_AUTO_INSTALL=1
+export JAVA_HOME="/usr/lib/jvm/java-8-openjdk"
+
+
+alias oo='cd ~/Obsidian/ && nvim'
 
 # zoxide initialization
 zoxide init --cmd cd fish | source

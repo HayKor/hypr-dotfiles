@@ -60,7 +60,7 @@ button:hover {
 #workspaces button:hover {
   color: @nord-blue;
 }
-#workspaces button.focused {
+#workspaces button.active {
 }
 #workspaces button.urgent {
 }

@@ -4,7 +4,8 @@ local options = {
         python = { "isort", "black" },
         go = { "goimports" },
         markdown = { nil },
-        ["_"] = { "prettier" }, -- all other filetypes
+        typst = { "tinymist" },
+        -- ["_"] = { "prettier" }, -- all other filetypes
     },
 
     -- format_on_save = {

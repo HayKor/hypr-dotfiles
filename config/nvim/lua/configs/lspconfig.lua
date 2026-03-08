@@ -11,6 +11,7 @@ local servers = {
     "markdown_oxide",
     "clangd",
     "gopls",
+    "tinymist",
 }
 
 -- lsps with default config
